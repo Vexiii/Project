@@ -73,7 +73,7 @@ public class NewFXMain extends Application {
           @Override public void handle(MouseEvent event) {
               
           }
-      }
+      });
   }
   
   private void addBullet(){
